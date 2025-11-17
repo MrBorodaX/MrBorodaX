@@ -1,5 +1,4 @@
 ![Header](./your-header-image-name.png)
-https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 # Hi, I’m Anatoliy Boroda 👋
 
 - 👀 I’m interested in ...
