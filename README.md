@@ -1,9 +1,10 @@
 ![Header](./your-header-image-name.png)
 # Hi, I’m Anatoliy Boroda 👋
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💻 Network engineer at NIC SPB ETU.
+- 😎 Graduated in Communication Technologies and Communication Systems from the Bonch-Bruevich University of Telecommunications.
+- 🦾 Completed a DevOps retraining program.
+- ⚙️ Combining networking, automation, and Python.
 
 ## My skills
 <div >
